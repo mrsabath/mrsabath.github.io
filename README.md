@@ -38,5 +38,5 @@ Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
 
 -------------------------------------------
 
-Use the [editor on GitHub](https://github.com/mrsabath/mrsabath.github.io/edit/main/README.md) to maintain and preview the content of this file.
+I am using `hacker` [theme](https://pages-themes.github.io/hacker/) and the [editor on GitHub](https://github.com/mrsabath/mrsabath.github.io/edit/main/README.md) to maintain and preview the content of this file.
 
