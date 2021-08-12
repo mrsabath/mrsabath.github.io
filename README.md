@@ -1,8 +1,7 @@
 ### Hi there!
 
 My name is Mariusz, and I am a senior software engineer
-in [IBM Research](https://www.research.ibm.com/), 
-where I have been working since 1997.
+in [IBM Research](https://www.research.ibm.com/) since 1997.
 My research interests are system management and distributed,
 scalable environments in Hybrid Cloud.
 My current focus is security, identity, and secret management in Kubernetes environments.
