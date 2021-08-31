@@ -20,7 +20,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 ### My blogs:
 
 2021:
-* [Open source workload identity management could help secure hybrid clouds]()
+* [Open source workload identity management could help secure hybrid clouds](https://research.ibm.com/blog/tornjak-project-cncf)
 
 2020:
 *  [Confidentiality and Governance of Cloud Services](https://www.ibm.com/blogs/research/2020/04/confidentiality-governance-cloud-services/)
