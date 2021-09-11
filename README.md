@@ -21,6 +21,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 2021:
 * [Open source workload identity management could help secure hybrid clouds](https://research.ibm.com/blog/tornjak-project-cncf)
+* [Deploying Tornjak with Helm Charts](https://medium.com/universal-workload-identity/deploying-tornjak-with-helm-charts-e51fc21b962c)
 
 2020:
 *  [Confidentiality and Governance of Cloud Services](https://www.ibm.com/blogs/research/2020/04/confidentiality-governance-cloud-services/)
@@ -32,6 +33,10 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 * [Tornjak](https://tornjak.io/)
 * [Trusted Service Identity](https://github.com/IBM/trusted-service-identity/)
 * [SPIFFE/SPIRE](https://github.com/spiffe/spire)
+
+### Publications:
+* 2016 [Building the IBM Containers cloud service](https://ieeexplore.ieee.org/document/7442607)
+* 2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
 
 ### My Certificates:
 * [Professional Certification: Level 3 - Distinguished Technical Specialist](https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/)
