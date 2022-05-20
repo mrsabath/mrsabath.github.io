@@ -9,7 +9,7 @@ My current focus is security, identity, and secret management in Kubernetes envi
 I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath).
 
 &#124;
-[LinkedId](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
+[LinkedIn](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
 [Twitter](https://twitter.com/mrsabath) &#124;
 [GitHub](https://github.com/mrsabath) &#124;
 [My IBM Research page](https://researcher.watson.ibm.com/researcher/view.php?person=us-sabath) 
