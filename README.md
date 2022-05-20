@@ -44,6 +44,8 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 * [Patent Plateau](https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d)
 * [All my certificates](https://www.credly.com/users/mariusz-sabath)
 
+<a href="https://www.credly.com/badges/b2e1bdda-ef6d-4ebd-a4a2-4d491e9339a1/public_url"><img src="docs/assets/technical-specialist-profession-certification-level-3.png" alt="Image description"></a>
+
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
 
 -------------------------------------------
