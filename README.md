@@ -50,6 +50,9 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
+<a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="204x204"></a>
+<a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="204x204"></a>
+<!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
 
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
 
