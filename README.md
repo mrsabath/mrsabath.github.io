@@ -44,9 +44,9 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 * [Patent Plateau](https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d)
 * [All my certificates](https://www.credly.com/users/mariusz-sabath)
 
+<a href="https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/public_url"><img src="docs/assets/professional-certification-level-3-distinguished-technical-specialist.1.png" alt="Professional Cert Level 3"></a>
 <a href="https://www.credly.com/badges/b2e1bdda-ef6d-4ebd-a4a2-4d491e9339a1/public_url"><img src="docs/assets/technical-specialist-profession-certification-level-3.png" alt="technical specialist profession certification level 3"></a>
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker"></a>
-<a href="https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/public_url"><img src="docs/assets/professional-certification-level-3-distinguished-technical-specialist.1.png" alt="Professional Cert Level 3"></a>
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
@@ -54,6 +54,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="204x204"></a>
 <!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
 
+### My Notes:
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
 
 -------------------------------------------
