@@ -8,6 +8,8 @@ My current focus is security, identity, and secret management in Kubernetes envi
 
 I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath).
 
+Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](https://github.com/cncf/tag-security/issues/950) under CNCF Security TAG 
+
 &#124;
 [LinkedIn](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
 [Twitter](https://twitter.com/mrsabath) &#124;
@@ -17,7 +19,11 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 -------
 
-### My blogs:
+### My blogs and publications:
+
+2022: 
+* [NIST IR 8320B, "Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms"](https://csrc.nist.gov/publications/detail/nistir/8320b/final)
+* [Universal Workload Identity Blog](https://medium.com/universal-workload-identity)
 
 2021:
 * [Open source workload identity management could help secure hybrid clouds](https://research.ibm.com/blog/tornjak-project-cncf)
@@ -28,15 +34,18 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 *  [Protecting data using secret management with Trusted Service Identity](https://developer.ibm.com/articles/protecting-data-using-secret-management-trusted-service-identity/)
 *  [IBM Research Launches Container-Based Open-Source Projects](https://www.tfir.io/ibm-research-launches-container-based-open-source-projects/?)
 *  [Secret Management with Trusted Service Identity for Sensitive Data Protection](https://medium.com/@mrsabath/secret-management-with-trusted-service-identity-for-sensitive-data-protection-e511eb66d87f)
+* 2016 [Building the IBM Containers cloud service](https://ieeexplore.ieee.org/document/7442607)
+* 2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
 
 ### My Open-Source Projects and Community Contributions:
 * [Tornjak](https://tornjak.io/)
 * [Trusted Service Identity](https://github.com/IBM/trusted-service-identity/)
 * [SPIFFE/SPIRE](https://github.com/spiffe/spire)
+* [Tornjak Youtube Channel](https://www.youtube.com/@tornjak)
 
-### Publications:
-* 2016 [Building the IBM Containers cloud service](https://ieeexplore.ieee.org/document/7442607)
-* 2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
+### Conferences:
+* 2022 SPIFFE Community Day: ["Tornjak Journey - How to become a User Interface and a Control Plane for SPIRE"](https://spiffecommunityday-fall2022.splashthat.com), [rec]()
+* 2021 Kubecon NA: ["Untangling the Multi-Cloud Identity and Access Problem With SPIFFE Tornjak"](https://kccncna2021.sched.com/event/a5e6781ddb6e4df01a5e52d5ae89b491), [rec](https://www.youtube.com/watch?v=Voy_8wifB0E)
 
 ### My Certificates:
 * [Professional Certification: Level 3 - Distinguished Technical Specialist](https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/)
