@@ -44,21 +44,25 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 * [Tornjak Youtube Channel](https://www.youtube.com/@tornjak)
 
 ### Conferences:
-* 2022 SPIFFE Community Day: ["Tornjak Journey - How to become a User Interface and a Control Plane for SPIRE"](https://spiffecommunityday-fall2022.splashthat.com), [rec]()
+* 2023 CNCF CloudNative Security Con NA: [“Demystifying Zero-trust for Cloud Native Technologies”](https://sched.co/1FV1i), [rec](https://youtu.be/TJbw4mgILhM)
+* 2022 SPIFFE Community Day: ["Tornjak Journey - How to become a User Interface and a Control Plane for SPIRE"](https://spiffecommunityday-fall2022.splashthat.com), [rec](https://youtu.be/4g8Oz7vT6bc)
 * 2021 Kubecon NA: ["Untangling the Multi-Cloud Identity and Access Problem With SPIFFE Tornjak"](https://kccncna2021.sched.com/event/a5e6781ddb6e4df01a5e52d5ae89b491), [rec](https://www.youtube.com/watch?v=Voy_8wifB0E)
 
 ### My Certificates:
 * [Professional Certification: Level 3 - Distinguished Technical Specialist](https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/)
 * [Technical Specialist Profession Certification - Level 3](https://www.credly.com/badges/b2e1bdda-ef6d-4ebd-a4a2-4d491e9339a1)
+* [Open Source Contributor](https://www.credly.com/badges/442a9d8c-682e-4a59-9c2b-67f45ab514f3/public_url)
 * [Patent Plateau](https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d)
 * [All my certificates](https://www.credly.com/users/mariusz-sabath)
 
 <a href="https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/public_url"><img src="docs/assets/professional-certification-level-3-distinguished-technical-specialist.1.png" alt="Professional Cert Level 3"></a>
 <a href="https://www.credly.com/badges/b2e1bdda-ef6d-4ebd-a4a2-4d491e9339a1/public_url"><img src="docs/assets/technical-specialist-profession-certification-level-3.png" alt="technical specialist profession certification level 3"></a>
-<a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker"></a>
-<a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
+<a href="https://www.credly.com/badges/442a9d8c-682e-4a59-9c2b-67f45ab514f3/public_url"><img src="docs/assets/open-source-contributor.png" alt="Open Source Contributor"></a>
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
+
+<a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker"></a>
+<a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="204x204"></a>
 <a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="204x204"></a>
 <!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
