@@ -34,8 +34,10 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 *  [Protecting data using secret management with Trusted Service Identity](https://developer.ibm.com/articles/protecting-data-using-secret-management-trusted-service-identity/)
 *  [IBM Research Launches Container-Based Open-Source Projects](https://www.tfir.io/ibm-research-launches-container-based-open-source-projects/?)
 *  [Secret Management with Trusted Service Identity for Sensitive Data Protection](https://medium.com/@mrsabath/secret-management-with-trusted-service-identity-for-sensitive-data-protection-e511eb66d87f)
-* 2016 [Building the IBM Containers cloud service](https://ieeexplore.ieee.org/document/7442607)
-* 2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
+
+2016 [Building the IBM Containers cloud service](https://ieeexplore.ieee.org/document/7442607)
+
+2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
 
 ### My Open-Source Projects and Community Contributions:
 * [Tornjak](https://tornjak.io/)
