@@ -65,6 +65,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
 
+<a href="https://www.credly.com/badges/eecbe2f5-9dc9-4b3a-8358-843eb7a65811/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con Speaker"></a>
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker"></a>
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking"></a>
