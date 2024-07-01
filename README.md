@@ -21,7 +21,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 
 2024:
 * [SPFFE/SPIRE on Red Hat OpenShift](https://next.redhat.com/2024/06/27/spiffe-spire-on-red-hat-openshift/)
-* [Harnessing Growth-Mindedness to Enhance Organizational Effectiveness (AHFE Confernce)](https://openaccess.cms-conferences.org/publications/book/978-1-964867-19-9/article/978-1-964867-19-9_3)
+* [Harnessing Growth-Mindedness to Enhance Organizational Effectiveness (AHFE Conference)](https://openaccess.cms-conferences.org/publications/book/978-1-964867-19-9/article/978-1-964867-19-9_3)
 
 2022: 
 * [NIST IR 8320B, "Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms"](https://csrc.nist.gov/publications/detail/nistir/8320b/final)
@@ -49,8 +49,8 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 * [Tornjak Youtube Channel](https://www.youtube.com/@tornjak)
 
 ### Conferences:
-* 2024 Applied Human Factors and Ergonomics (AHFE) Scientific Conf, Nice, France: [Harnessing growth-mindedness to enhance organizational effectiveness](), [rec]()
-* 2024 CNCF CloudNative Security Con NA: [Workshop: Demystifying and Enabling Workload Identity Across the Cloud Native Ecosystem](https://sched.co/1dCUU),[rec]()
+* 2024 Applied Human Factors and Ergonomics (AHFE) Scientific Conf, Nice, France: ["Harnessing growth-mindedness to enhance organizational effectiveness"](https://ahfe.org/program.html), [rec]()
+* 2024 CNCF CloudNative Security Con NA: [Workshop: "Demystifying and Enabling Workload Identity Across the Cloud Native Ecosystem"](https://sched.co/1dCUU),[rec]()
 * 2023 CNCF CloudNative Security Con NA: [“Demystifying Zero-trust for Cloud Native Technologies”](https://sched.co/1FV1i), [rec](https://youtu.be/TJbw4mgILhM)
 * 2022 SPIFFE Community Day: ["Tornjak Journey - How to become a User Interface and a Control Plane for SPIRE"](https://spiffecommunityday-fall2022.splashthat.com), [rec](https://youtu.be/4g8Oz7vT6bc)
 * 2021 Kubecon NA: ["Untangling the Multi-Cloud Identity and Access Problem With SPIFFE Tornjak"](https://kccncna2021.sched.com/event/a5e6781ddb6e4df01a5e52d5ae89b491), [rec](https://www.youtube.com/watch?v=Voy_8wifB0E)
