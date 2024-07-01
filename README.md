@@ -1,8 +1,8 @@
 ### Hi there!
 
-My name is Mariusz, and I am a senior software engineer
+My name is Mariusz, and I am a Senior Technical Staff Member
 in [IBM Research](https://www.research.ibm.com/) since 1997.
-My research interests are system management and distributed,
+My research interests are Zero Trust and Workload Identity for distributed and
 scalable environments in Hybrid Cloud.
 My current focus is security, identity, and secret management in Kubernetes environments.
 
@@ -14,12 +14,14 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 [LinkedIn](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
 [Twitter](https://twitter.com/mrsabath) &#124;
 [GitHub](https://github.com/mrsabath) &#124;
-[My IBM Research page](https://researcher.watson.ibm.com/researcher/view.php?person=us-sabath) 
-&#124;
 
 -------
 
 ### My blogs and publications:
+
+2024:
+* [SPFFE/SPIRE on Red Hat OpenShift](https://next.redhat.com/2024/06/27/spiffe-spire-on-red-hat-openshift/)
+* [Harnessing Growth-Mindedness to Enhance Organizational Effectiveness (AHFE Confernce)](https://openaccess.cms-conferences.org/publications/book/978-1-964867-19-9/article/978-1-964867-19-9_3)
 
 2022: 
 * [NIST IR 8320B, "Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms"](https://csrc.nist.gov/publications/detail/nistir/8320b/final)
@@ -40,12 +42,15 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 2010 [RC2—A Living Lab for Cloud Computing](https://www.usenix.org/biblio-6962)
 
 ### My Open-Source Projects and Community Contributions:
-* [Tornjak](https://tornjak.io/)
-* [Trusted Service Identity](https://github.com/IBM/trusted-service-identity/)
-* [SPIFFE/SPIRE](https://github.com/spiffe/spire)
+* Owner and contributor [Tornjak](https://tornjak.io/)
+* Contributor and maintainer [SPIRE Helm Charts](https://github.com/spiffe/helm-charts-hardened)
+* Owner and contributor [Trusted Service Identity](https://github.com/IBM/trusted-service-identity/)
+* Contributor [SPIFFE/SPIRE](https://github.com/spiffe/spire)
 * [Tornjak Youtube Channel](https://www.youtube.com/@tornjak)
 
 ### Conferences:
+* 2024 Applied Human Factors and Ergonomics (AHFE) Scientific Conf, Nice, France: [Harnessing growth-mindedness to enhance organizational effectiveness](), [rec]()
+* 2024 CNCF CloudNative Security Con NA: [Workshop: Demystifying and Enabling Workload Identity Across the Cloud Native Ecosystem](https://sched.co/1dCUU),[rec]()
 * 2023 CNCF CloudNative Security Con NA: [“Demystifying Zero-trust for Cloud Native Technologies”](https://sched.co/1FV1i), [rec](https://youtu.be/TJbw4mgILhM)
 * 2022 SPIFFE Community Day: ["Tornjak Journey - How to become a User Interface and a Control Plane for SPIRE"](https://spiffecommunityday-fall2022.splashthat.com), [rec](https://youtu.be/4g8Oz7vT6bc)
 * 2021 Kubecon NA: ["Untangling the Multi-Cloud Identity and Access Problem With SPIFFE Tornjak"](https://kccncna2021.sched.com/event/a5e6781ddb6e4df01a5e52d5ae89b491), [rec](https://www.youtube.com/watch?v=Voy_8wifB0E)
@@ -58,6 +63,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 * [Patent Plateau](https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d)
 * [All my certificates](https://www.credly.com/users/mariusz-sabath)
 
+<a href="https://www.credly.com/badges/e4b5960a-c6a8-4e84-8b1c-70826e420d3c/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con 2024 Speaker"></a>
 <a href="https://www.credly.com/badges/7435c07b-6dfd-4bd4-aff8-b10cecb013c6/public_url"><img src="docs/assets/professional-certification-level-3-distinguished-technical-specialist.1.png" alt="Professional Cert Level 3"></a>
 <a href="https://www.credly.com/badges/b2e1bdda-ef6d-4ebd-a4a2-4d491e9339a1/public_url"><img src="docs/assets/technical-specialist-profession-certification-level-3.png" alt="technical specialist profession certification level 3"></a>
 <a href="https://www.credly.com/badges/442a9d8c-682e-4a59-9c2b-67f45ab514f3/public_url"><img src="docs/assets/open-source-contributor.png" alt="Open Source Contributor"></a>
@@ -65,7 +71,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
 
-<a href="https://www.credly.com/badges/eecbe2f5-9dc9-4b3a-8358-843eb7a65811/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con Speaker"></a>
+<a href="https://www.credly.com/badges/eecbe2f5-9dc9-4b3a-8358-843eb7a65811/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con 2024 Speaker"></a>
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker"></a>
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator"></a>
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking"></a>
