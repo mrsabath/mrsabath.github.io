@@ -20,8 +20,10 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 ### My blogs and publications:
 
 2024:
-* [SPFFE/SPIRE on Red Hat OpenShift](https://next.redhat.com/2024/06/27/spiffe-spire-on-red-hat-openshift/)
-* [Harnessing Growth-Mindedness to Enhance Organizational Effectiveness (AHFE Conference)](https://openaccess.cms-conferences.org/publications/book/978-1-964867-19-9/article/978-1-964867-19-9_3)
+* ["SPFFE/SPIRE on Red Hat OpenShift"](https://next.redhat.com/2024/06/27/spiffe-spire-on-red-hat-openshift/)
+* ["Cross-cloud identity framework with SPIFFE/Spire on OpenShift"](https://developers.redhat.com/learning/learn:openshift:implement-cross-cloud-identity-framework-spiffespire-openshift/resource/resources:achieve-cross-cloud-identity-openshift-spire-and-tornjak)
+* [CloudNative Security Conference NA 2024: “Demystifying and Enabling Worklaod Identity Across the Cloud Native Ecosystem”](https://cloudnativesecurityconna24.sched.com/event/1dCUU?iframe=no)
+* [AHFE Conference: "Harnessing Growth-Mindedness to Enhance Organizational Effectiveness"](https://openaccess.cms-conferences.org/publications/book/978-1-964867-19-9/article/978-1-964867-19-9_3)
 
 2022: 
 * [NIST IR 8320B, "Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms"](https://csrc.nist.gov/publications/detail/nistir/8320b/final)
