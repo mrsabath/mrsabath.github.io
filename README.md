@@ -80,6 +80,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking" height="204" width="204"></a>
+<a href="https://www.credly.com/badges/a7df0a62-bcee-43bd-9101-5529b5a6f484/public_url"><img src="docs/assets/ibm-recognized-speaker-presenter.png" alt="IBM Recognized Speaker/ Presenter" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="Mentor certificate" height="204" width="204"></a>
 
 ### My Notes:
