@@ -72,7 +72,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 <a href="https://www.credly.com/badges/b529984a-9a09-4b5c-97fd-9fa76554c734/public_url"><img src="docs/assets/ibm-security-zero-trust-principles.png" alt="IBM Security Zero Trust Principles"></a>
 <a href="https://www.credly.com/badges/b9a1a3a0-501a-4f2b-81c8-01dd8a830155/public_url"><img src="docs/assets/patent-issuance.png" alt="Patent Issuance"></a>
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
-<a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
+<a href="https://www.credly.com/badges/12a09666-bacb-46a6-9556-e880b7112677/public_url"><img src="docs/assets/Tech-Spec-Expert.png" alt="Technical Specialist Profession Certification - Expert" height="204" width="204"></a>
 
 <!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
 <a href="https://www.credly.com/badges/e4b5960a-c6a8-4e84-8b1c-70826e420d3c/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2024.png" alt="CloudNative Security Con 2024 Speaker" height="204" width="204"></a>
@@ -80,7 +80,7 @@ Currently co-leading a white paper: ["Zero Trust using Cloud Native Platforms"](
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/b410b8f2-48ba-48ba-9fe4-d29e1d7eb9b5/public_url"><img src="docs/assets/ibm-intellectual-capital-intellectual-property-creator.png" alt="IBM Intelectual Capital Creator" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking" height="204" width="204"></a>
-<a href="https://www.credly.com/badges/12a09666-bacb-46a6-9556-e880b7112677/public_url"><img src="docs/assets/Tech-Spec-Expert.png" alt="Technical Specialist Profession Certification - Expert" height="204" width="204"></a>
+<a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="Mentor certificate" height="204" width="204"></a>
 
 ### My Notes:
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
