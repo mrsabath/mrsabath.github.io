@@ -66,8 +66,8 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 ### Conferences
 
-* 2025 KubeCon + CloudNativeCon NA, Atlanta, GA: ["Tutorial: Build-a-Bot Workshop: Enabling Trusted Agents With SPIRE + MCP"](https://kccncna2025.sched.com/event/02ab3d1a41ed305278fa6b2309defaf6), [rec]()
-* 2025 KubeCon + Colocated: ["Who Let the Agents Out? Securing AI Workloads the Right Way"](https://colocatedeventsna2025.sched.com/event/0a1cc2c3c88560659d77b4d46d9b6710), [rec]()
+* 2025 KubeCon + CloudNativeCon NA, Atlanta, GA: ["Tutorial: Build-a-Bot Workshop: Enabling Trusted Agents With SPIRE + MCP"](https://kccncna2025.sched.com/event/02ab3d1a41ed305278fa6b2309defaf6), [rec](https://youtu.be/pjlhCCOhd8A?si=Y4WTCF2sH4fZtykW)
+* 2025 KubeCon + Colocated: ["Who Let the Agents Out? Securing AI Workloads the Right Way"](https://colocatedeventsna2025.sched.com/event/0a1cc2c3c88560659d77b4d46d9b6710)
 * 2025 Workload Identity by CyberArk / KubeCon + CloudNativeCon EU, London, UK: ["Zero-Trust Based Workload Identity Solutions For Agentic Platforms"](https://cyberark.wistia.com/medias/58yf3u8sxk)
 * 2024 Workload Identity by Venafi / KubeCon + CloudNativeCon NA, Salt Lake City, UT "Federating Trust in the Cloud Multiverse with SPIRE and Tornjak"
 * 2024 Applied Human Factors and Ergonomics (AHFE) Scientific Conf, Nice, France: ["Harnessing growth-mindedness to enhance organizational effectiveness"](https://ahfe.org/program.html), [rec]()
