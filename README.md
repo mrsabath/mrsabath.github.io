@@ -95,8 +95,10 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <a href="https://www.credly.com/badges/a9f5d07c-b2a5-4dcd-befe-74de7ea7060d/public_url"><img src="docs/assets/plateau.png" alt="Plateau Issuance"></a>
 <a href="https://www.credly.com/badges/12a09666-bacb-46a6-9556-e880b7112677/public_url"><img src="docs/assets/Tech-Spec-Expert.png" alt="Technical Specialist Profession Certification - Expert" height="204" width="204"></a>
 
-<!-- Round -->
+<!-- Round img size 350x350 -->
 <!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
+
+<a href="https://www.credly.com/badges/8a0d1356-4e1e-4627-b03e-e0987d25af9e/public_url"><img src="./docs/assets/open-source-securitycon-na-2025-speaker-badge.png" alt="Speaker: Open Source SecurityCon NA 2025" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/331e6999-97bb-4fd1-8dd6-a9137db35840/public_url"><img src="docs/assets/speaker-kubecon-na-atlanta-2025.png" alt="Speaker: KubeCon + CloudNativeCon North America 2025" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/e4b5960a-c6a8-4e84-8b1c-70826e420d3c/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2024.png" alt="CloudNative Security Con 2024 Speaker" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/eecbe2f5-9dc9-4b3a-8358-843eb7a65811/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con 2024 Speaker" height="204" width="204"></a>
