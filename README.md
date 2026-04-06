@@ -107,6 +107,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/a7df0a62-bcee-43bd-9101-5529b5a6f484/public_url"><img src="docs/assets/ibm-recognized-speaker-presenter.png" alt="IBM Recognized Speaker/ Presenter" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="Mentor certificate" height="204" width="204"></a>
+<a href="https://www.credly.com/badges/2df0e048-c2b4-4fe6-9290-3c4ef684d206/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-europe-2026.png" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" height="204" width="204"></a>
 
 ### My Notes:
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
