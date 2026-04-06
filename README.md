@@ -98,8 +98,9 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <!-- Round img size 350x350 -->
 <!-- a href=""><img src="docs/assets/" alt="204x204"></a -->
 
-<a href="https://www.credly.com/badges/8a0d1356-4e1e-4627-b03e-e0987d25af9e/public_url"><img src="./docs/assets/open-source-securitycon-na-2025-speaker-badge.png" alt="Speaker: Open Source SecurityCon NA 2025" height="204" width="204"></a>
+<a href="https://www.credly.com/badges/2df0e048-c2b4-4fe6-9290-3c4ef684d206/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-europe-2026.png" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/331e6999-97bb-4fd1-8dd6-a9137db35840/public_url"><img src="docs/assets/speaker-kubecon-na-atlanta-2025.png" alt="Speaker: KubeCon + CloudNativeCon North America 2025" height="204" width="204"></a>
+<a href="https://www.credly.com/badges/8a0d1356-4e1e-4627-b03e-e0987d25af9e/public_url"><img src="./docs/assets/open-source-securitycon-na-2025-speaker-badge.png" alt="Speaker: Open Source SecurityCon NA 2025" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/e4b5960a-c6a8-4e84-8b1c-70826e420d3c/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2024.png" alt="CloudNative Security Con 2024 Speaker" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/eecbe2f5-9dc9-4b3a-8358-843eb7a65811/public_url"><img src="docs/assets/speaker-cloudnativesecuritycon-north-america-2023.png" alt="CloudNative Security Con 2024 Speaker" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/2e5312b4-1a93-40cb-898c-eb90dc3d2980/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-north-america-2021.png" alt="Kubecon Speaker" height="204" width="204"></a>
@@ -107,7 +108,6 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 <a href="https://www.credly.com/badges/2285deb6-79fe-410d-b9cf-1a76041ff301/public_url"><img src="docs/assets/enterprise-design-thinking-practitioner.png" alt="Enterprise Design Thinking" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/a7df0a62-bcee-43bd-9101-5529b5a6f484/public_url"><img src="docs/assets/ibm-recognized-speaker-presenter.png" alt="IBM Recognized Speaker/ Presenter" height="204" width="204"></a>
 <a href="https://www.credly.com/badges/3d8ce44c-2557-478b-aae3-5b94f48c8b70/public_url"><img src="docs/assets/ibm-mentor.png" alt="Mentor certificate" height="204" width="204"></a>
-<a href="https://www.credly.com/badges/2df0e048-c2b4-4fe6-9290-3c4ef684d206/public_url"><img src="docs/assets/speaker-kubecon-cloudnativecon-europe-2026.png" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" height="204" width="204"></a>
 
 ### My Notes:
 Useful [notes](https://github.com/mrsabath/mytechnotes/blob/master/README.md)
