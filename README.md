@@ -1,5 +1,7 @@
 ### Hi there!
 
+<a href="https://github.com/mrsabath"><img src="docs/assets/profile-mariusz-sabath.png" align="right" width="200" height="200" alt="Mariusz Sabath"></a>
+
 I am a Senior Technical Staff Member in [IBM Research](https://www.research.ibm.com/) with over 28 years of experience in software engineering, specializing in distributed systems, cloud-native platforms, and open-source technologies. My focus is on establishing universal workload identity for secure multi-cloud and hybrid deployments, with a strong commitment to Zero Trust principles.
 
 As a Senior Certified Level 3 (Thought Leader) Cloud Software Engineer, I design and develop large-scale, distributed cloud environments, primarily based on Kubernetes, Go, and Python, with a specialization in workload identity, secret management, and trusted identity frameworks to reduce attack surfaces and strengthen privacy and security across environments.
