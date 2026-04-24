@@ -68,7 +68,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 ### Conferences
 
-* 2026 KubeCon + CloudNativeCon EU, Amsterdam, NL: ["When an Agent Acts on Your Behalf, Who Holds the Keys?"](https://kccnceu2026.sched.com/event/2CVxt/when-an-agent-acts-on-your-behalf-who-holds-the-keys-mariusz-sabath-maia-iyer-ibm-research?iframe=no&w=100%&sidebar=yes&bg=no)
+* 2026 KubeCon + CloudNativeCon EU, Amsterdam, NL: ["When an Agent Acts on Your Behalf, Who Holds the Keys?"](https://kccnceu2026.sched.com/event/2CVxt/when-an-agent-acts-on-your-behalf-who-holds-the-keys-mariusz-sabath-maia-iyer-ibm-research?iframe=no&w=100%&sidebar=yes&bg=no), [rec](https://www.youtube.com/watch?v=kc2NuTUt5Os&list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL&index=325)
 * 2025 KubeCon + CloudNativeCon NA, Atlanta, GA: ["Tutorial: Build-a-Bot Workshop: Enabling Trusted Agents With SPIRE + MCP"](https://kccncna2025.sched.com/event/02ab3d1a41ed305278fa6b2309defaf6), [rec](https://youtu.be/pjlhCCOhd8A?si=Y4WTCF2sH4fZtykW)
 * 2025 KubeCon + Colocated: ["Who Let the Agents Out? Securing AI Workloads the Right Way"](https://colocatedeventsna2025.sched.com/event/0a1cc2c3c88560659d77b4d46d9b6710)
 * 2025 Workload Identity by CyberArk / KubeCon + CloudNativeCon EU, London, UK: ["Zero-Trust Based Workload Identity Solutions For Agentic Platforms"](https://cyberark.wistia.com/medias/58yf3u8sxk)
