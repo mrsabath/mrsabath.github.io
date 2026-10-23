@@ -14,7 +14,7 @@ Beyond my engineering work, I’m deeply engaged in the open-source community:
 * Active maintainer and contributor to several CNCF and open-source projects
 * Advocate for open collaboration and secure, scalable design
 
-I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath) ([Patent Leaderboard profile](https://www.patentleaderboard.com/ibm/mariusz-sabath/930170)).
+I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath) ([US Patent Leaderboard profile](https://www.patentleaderboard.com/ibm/mariusz-sabath/930170)).
 
 &#124;
 [LinkedIn](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
