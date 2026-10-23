@@ -6,7 +6,7 @@ I am a Senior Technical Staff Member in [IBM Research](https://www.research.ibm.
 
 As a Senior Certified Level 3 (Thought Leader) Cloud Software Engineer, I design and develop large-scale, distributed cloud environments, primarily based on Kubernetes, Go, and Python, with a specialization in workload identity, secret management, and trusted identity frameworks to reduce attack surfaces and strengthen privacy and security across environments.
 
-I currently lead architectural efforts aimed at improving security for AI Agentic Platforms ([Kagenti](http://kagenti.io)) project), combining workload attestation, token-based delegation, and centralized trust management to enable safe and autonomous AI operations.
+I currently lead architectural efforts aimed at improving security for AI Agentic Platforms ([Rossoctl](https://rossoctl.dev), formerly Kagenti), combining workload attestation, token-based delegation, and centralized trust management to enable safe and autonomous AI operations.
 
 Beyond my engineering work, I’m deeply engaged in the open-source community:
 
@@ -14,7 +14,7 @@ Beyond my engineering work, I’m deeply engaged in the open-source community:
 * Active maintainer and contributor to several CNCF and open-source projects
 * Advocate for open collaboration and secure, scalable design
 
-I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath).
+I co-authored several technical papers and filed over [20 patents](https://patents.google.com/?inventor=Mariusz+Sabath) ([Patent Leaderboard profile](https://www.patentleaderboard.com/ibm/mariusz-sabath/930170)).
 
 &#124;
 [LinkedIn](https://www.linkedin.com/in/mariusz-sabath-b36b0b20/) &#124;
@@ -27,7 +27,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 2025:
 
-* Blogs: [Kagenti — The Cloud Native Agentic Platform](https://medium.com/kagenti-the-agentic-platform)
+* Blogs: [Kagenti — The Cloud Native Agentic Platform](https://medium.com/kagenti-the-agentic-platform) (the project is now [Rossoctl](https://rossoctl.dev))
 
 2024:
 
@@ -59,7 +59,7 @@ I co-authored several technical papers and filed over [20 patents](https://paten
 
 ### My Open-Source Projects and Community Contributions
 
-* Contributor and maintainer [Kagenti](http://kagenti.io/)
+* Contributor and maintainer [Rossoctl](https://rossoctl.dev) (formerly Kagenti)
 * Owner, contributor, and maintainer [Tornjak](https://tornjak.io/)
 * Contributor and maintainer [SPIRE Helm Charts](https://github.com/spiffe/helm-charts-hardened)
 * Owner and contributor [Trusted Service Identity](https://github.com/IBM/trusted-service-identity/)
